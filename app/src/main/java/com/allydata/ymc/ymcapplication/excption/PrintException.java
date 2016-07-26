@@ -1,0 +1,1 @@
+package com.allydata.ymc.ymcapplication.excption;/** * Customer Exception class *  * @author ltyhome ltyhome@yahoo.com.hk *  *         Dec 11, 201311:28:05 AM */public class PrintException extends Exception {	/**	 * 	 */	private static final long serialVersionUID = -3383861726755959623L;	public PrintException(String msg) {		super(msg);	}}
